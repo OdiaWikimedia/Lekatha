@@ -1,5 +1,5 @@
 # Lekatha is an open source project to create an Odia-language Text-to-speech engine
--------
+
 Currently in its infancy, this project is based on the software created by (*[check it out](https://github.com/alexram1313/text-to-speech-sample)*) written by [Alex I. Ramirez](https://github.com/alexram1313).
 
 # Resources:
