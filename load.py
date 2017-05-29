@@ -15,7 +15,7 @@ class TextToSpeech:
         self._load_words(words_pron_dict)
 
     def _load_words(self, words_pron_dict:str):
-        with open(words_pron_dict, 'r') as file:
+        with open(words_pron_dict, mode = 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.startswith(';;;'):
                     key, val = line.split('  ',2)
