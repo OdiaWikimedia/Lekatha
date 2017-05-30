@@ -5,3 +5,6 @@ Currently in its infancy, this project is based on the software created by (*[ch
 * [Original source code](https://github.com/alexram1313/text-to-speech-sample) written by Alex
   - [Video tutorial](https://www.youtube.com/watch?v=KSSsVhoR7FQ)
   - [CMU Source](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
+
+#Maintainers
+* This project is currently maintained by [Subhashish Panigrahi](https://github.com/psubhashish/)
