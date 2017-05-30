@@ -1,4 +1,4 @@
-#Written by Alex I. Ramirez @alexram1313, Derivative by Subbhashish Panigrahi (@psubhashish)
+#Written by Alex I. Ramirez @alexram1313
 #arcompware.com
 import re
 import wave
@@ -10,7 +10,7 @@ class TextToSpeech:
     
     CHUNK = 1024
 
-    def __init__(self, words_pron_dict:str = 'wordlist.txt'):
+    def __init__(self, words_pron_dict:str = 'cmudict-0.7b.txt'):
         self._l = {}
         self._load_words(words_pron_dict)
 
