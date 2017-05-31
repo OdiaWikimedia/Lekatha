@@ -1,6 +1,6 @@
 Currently in its infancy, this project is based on the software created by ([check it out](https://github.com/alexram1313/text-to-speech-sample)) written by [Alex I. Ramirez](https://github.com/alexram1313), and led by Subhashish Panigrahi.
 
-<bold> Check out the [detailed documentation on how to use it is in the project page](https://commons.wikimedia.org/wiki/OpenSpeaks/toolkit/Lekatha) </bold>
+**Check out the [detailed documentation on how to use it is in the project page](https://commons.wikimedia.org/wiki/OpenSpeaks/toolkit/Lekatha)**
 
 # Resources:
 ## Resources:
