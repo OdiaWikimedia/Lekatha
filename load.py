@@ -30,7 +30,7 @@ class TextToSpeech:
         delay=0
         for pron in list_pron:
             _thread.start_new_thread( TextToSpeech._play_audio, (pron,delay,))
-            delay += 0.145
+            delay += 0.25
     
     def _play_audio(sound, delay):
         try:
