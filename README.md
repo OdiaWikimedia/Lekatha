@@ -6,5 +6,5 @@ Currently in its infancy, this project is based on the software created by (*[ch
   - [Video tutorial](https://www.youtube.com/watch?v=KSSsVhoR7FQ)
   - [CMU Source](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
-#Maintainers
+# Maintainers
 * This project is currently maintained by [Subhashish Panigrahi](https://github.com/psubhashish/)
